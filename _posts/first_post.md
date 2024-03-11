@@ -1,6 +1,9 @@
 ---
 layout: post
-title: My Journey to Becoming a Programmer
+title: TITLE
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [Personal Development, Blogpost]
+tags: [personal]    # TAG names should always be lowercase
 author: Mehrain
 description: Follow my journey as I share my aspirations and steps to becoming a skilled programmer.
 keywords: programming, journey, aspirations, self-study, online courses, projects
