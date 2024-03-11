@@ -1,12 +1,8 @@
 ---
-layout: post
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [Personal Development, Blogpost]
-tags: [personal]    # TAG names should always be lowercase
-author: Mehrain
-description: Follow my journey as I share my aspirations and steps to becoming a skilled programmer.
-keywords: programming, journey, aspirations, self-study, online courses, projects
+title: My first post
+date: 2022-10-01 09:30:00 +0000
+categories: [Blog, Introduction]
+tags: [personal, introduction, blogpost, programming, python]     # TAG names should always be lowercase
 ---
 
 ## Introduction
@@ -31,4 +27,4 @@ To turn my aspirations into reality, I have been actively learning and honing my
 
 ## Conclusion
 
-Becoming a programmer is not just a professional intrest for me; it is a passion and a lifelong journey. I am excited to continue learning, growing, and making a positive impact through my code. Thank you for joining me on this adventure!
+Becoming a programmer is not just a professional intrest for me; it is a passion and a lifelong journey. I am excited to continue learning, growing, and making a positive impact through my code. Thank you for joining me on this adventure! 
