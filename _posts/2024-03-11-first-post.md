@@ -1,7 +1,7 @@
 ---
 title: My first post
 date: 2022-10-01 09:30:00 +0000
-categories: [Blog, Introduction]
+categories: [Introduction]
 tags: [personal, introduction, blogpost, programming, python]     # TAG names should always be lowercase
 ---
 
