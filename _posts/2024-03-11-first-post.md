@@ -21,7 +21,7 @@ To turn my aspirations into reality, I have been actively learning and honing my
 
 2. **Online Courses**: I am also taking advantage of online courses and tutorials to deepen my understanding of programming. Platforms like [insert platform names] have been invaluable resources in my learning journey. 
 
-    - **Bootcamp**: I am currently enrolled at Boot.dev Academy, where I am progressing through an intensive coding bootcamp. This program provides me with structured learning, mentorship, and hands-on projects to further enhance my programming skills.
+    - **Bootcamp**: I am currently enrolled at Boot.dev Academy, where I am progressing through an intensive coding bootcamp. This program provides me with structured learning, mentorship, and hands-on projects to further enhance my programming skills. Check out my profile https://www.boot.dev/u/mehrain !
 
 3. **Projects**: I am working on personal projects to apply my knowledge and gain practical experience. By building real-world applications, I am able to enhance my problem-solving skills and learn from hands-on experience.
 
