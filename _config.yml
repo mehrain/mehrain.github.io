@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: Mehrain # the main title
 
-tagline: A personal progression tracker and plaything # it will display as the sub-title
+tagline: A personal progression tracker # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   a personal tracker for my personal growth as a backend developer. 
@@ -29,7 +29,7 @@ github:
   username: Mehrain # change to your github username
 
 twitter:
-  username: # change to your twitter username
+  username: elonmusk # change to your twitter username
 
 social:
   # Change to your full name.
