@@ -1,6 +1,6 @@
 ---
 title: "Barebone static site generator"
-date: 2024-03-13 09:30:00 +0000
+date: 2024-03-12 09:30:00 +0000
 categories: [Projects, SSG]
 tags: [project, static site generator, blogpost, programming, python, html, regex, static content] # TAG always lowercase
 ---
