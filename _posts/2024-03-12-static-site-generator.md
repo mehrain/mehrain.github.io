@@ -1,11 +1,8 @@
 ---
 title: Barebone static site generator
-comments: True
-author: Mehrain
 date: `date "+%Y-%m-%d %H:%M:%S %z"`
 categories: [Projects, SSG]
 tags: [project, static site generator, blogpost, programming, python, html, regex, static content] # TAG always lowercase
-summary: A post about my first (guided) attempt at making a static site generator.
 ---
 
 ## Introduction
