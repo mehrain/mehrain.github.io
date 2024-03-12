@@ -1,6 +1,6 @@
 ---
-title: Barebone static site generator
-date: 2024-03-13 00:09:00 +0000
+title: "Barebone static site generator"
+date: `date "+%Y-%m-%d %H:%M:%S %z"`
 categories: [Projects, SSG]
 tags: [project, static site generator, blogpost, programming, python, html, regex, static content] # TAG always lowercase
 ---
