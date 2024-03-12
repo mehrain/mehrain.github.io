@@ -1,15 +1,15 @@
 ---
 title: Barebone static site generator
-date: `date "+%Y-%m-%d %H:%M:%S %z"`
+date: 2024-03-13 00:09:00 +0000
 categories: [Projects, SSG]
 tags: [project, static site generator, blogpost, programming, python, html, regex, static content] # TAG always lowercase
 ---
 
-## Introduction
+## The Start of a New Project 
 
 Heey there, 
 
-I am currently immersed in an exciting project - building a static site generator, guided by the comprehensive curriculum at boot.dev. A static site generator is a software application that creates static HTML pages from raw data and templates. It's a powerful tool that combines the advantages of server-side rendering with the performance and security benefits of static sites.
+I am currently immersed in an exciting project - building a static site generator a.k.a. SSG, guided by the comprehensive curriculum at boot.dev. A SSG is a software application that creates static HTML pages from raw data and templates. It's a powerful tool that combines the advantages of server-side rendering with the performance and security benefits of static sites.
 
 ## The Journey
 
