@@ -7,7 +7,9 @@ tags: [project, static site generator, blogpost, programming, python, html, rege
 
 ## Introduction
 
-Hello, world! I am currently immersed in an exciting project - building a static site generator, guided by the comprehensive curriculum at boot.dev. A static site generator is a software application that creates static HTML pages from raw data and templates. It's a powerful tool that combines the advantages of server-side rendering with the performance and security benefits of static sites.
+Heey there, 
+
+I am currently immersed in an exciting project - building a static site generator, guided by the comprehensive curriculum at boot.dev. A static site generator is a software application that creates static HTML pages from raw data and templates. It's a powerful tool that combines the advantages of server-side rendering with the performance and security benefits of static sites.
 
 ## The Journey
 
