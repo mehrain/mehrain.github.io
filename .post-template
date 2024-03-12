@@ -1,9 +1,6 @@
 ---
-comments: False
-title: Title
-author: Mehrain
-date: `date "+%Y-%m-%d %H:%M:%S %z"`
+title: My first post
+date: 2024-03-11 09:30:00 +0000
 categories: [Introduction]
-tags: [personal, introduction, blogpost, programming, python] # TAG always lowercase
-summary: Summary of the article
+tags: [personal, introduction, blogpost, programming, python]     # TAG names should always be lowercase
 ---
