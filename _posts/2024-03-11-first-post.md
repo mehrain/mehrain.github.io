@@ -19,7 +19,7 @@ To turn my aspirations into reality, I have been actively learning and honing my
 
 1. **Self-Study**: I have been dedicating time to self-study, exploring various programming languages and concepts. I believe that continuous learning is key to becoming a successful programmer.
 
-2. **Online Courses**: I am also taking advantage of online courses and tutorials to deepen my understanding of programming. Platforms like [insert platform names] have been invaluable resources in my learning journey. 
+2. **Online Courses**: I am also taking advantage of online courses and tutorials to deepen my understanding of programming. Online platforms have been invaluable resources in my learning journey. 
 
     - **Bootcamp**: I am currently enrolled at Boot.dev Academy, where I am progressing through an intensive coding bootcamp. This program provides me with structured learning, mentorship, and hands-on projects to further enhance my programming skills. [Check out my profile on boot.dev](https://www.boot.dev/u/mehrain) !
 
