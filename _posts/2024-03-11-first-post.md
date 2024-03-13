@@ -1,13 +1,13 @@
 ---
-title: My first post
+title: Hello, World
 date: 2024-03-11 09:30:00 +0000
 categories: [Introduction]
 tags: [personal, introduction, blogpost, programming, python]     # TAG names should always be lowercase
 ---
 
-## Introduction
+## Heey there, 
 
-Hello, world! My name is Mehrain and I am thrilled to embark on my journey to become a programmer. In this post, I will share my aspirations and the steps I am taking to achieve them.
+My name is Mehrain and I am thrilled to embark on my journey to become a programmer. In this post, I will share my aspirations and the steps I am taking to achieve them.
 
 ## My Aspirations
 
