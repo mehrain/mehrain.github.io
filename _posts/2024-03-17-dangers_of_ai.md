@@ -1,6 +1,6 @@
 ---
 title: "Dangers of AI when learning"
-date: "%Y-%m-%d %H:%M:%S %z"
+date: 2024-03-17 22:54:00 +0000
 categories: [Personal, Blog] # max 2
 tags: [blogpost, programming, python, opinion] # TAG always lowercase
 ---
