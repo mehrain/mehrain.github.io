@@ -1,7 +1,7 @@
 ---
 title: Hello, World
 date: 2024-03-11 09:30:00 +0000
-categories: [Introduction]
+categories: [Personal, Introduction]
 tags: [personal, introduction, blogpost, programming, python]     # TAG names should always be lowercase
 ---
 
