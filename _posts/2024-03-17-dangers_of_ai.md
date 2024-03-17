@@ -20,4 +20,3 @@ To address this concern, I have made the decision to reduce my reliance on AI an
 ### Conclusion
 
 Although AI is a powerful tool that I anticipate utilizing in the future, I have chosen to limit its use for now. This decision will compel me to learn and grow independently, fostering a deeper understanding of software development. That being said there is a certain irony to mention: This post was written with the help of Co-pilot AI. (But hey, its not a crutch if you're aware of it, right?)
-```
