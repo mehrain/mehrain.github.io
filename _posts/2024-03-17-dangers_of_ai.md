@@ -1,7 +1,7 @@
 ---
 title: "Dangers of AI when learning"
 date: 2024-03-17 22:54:00 +0000
-categories: [Personal] # max 2
+categories: [Personal, Blog] # max 2
 tags: [blogpost, programming, ai, opinion] # TAG always lowercase
 ---
 
