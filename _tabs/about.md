@@ -10,7 +10,7 @@ Although I have not yet worked full-time in the industry, I have been actively i
 
 Previously, I worked as a network coax engineer at VodafoneZiggo through a subcontractor. However, I realized that network engineering (in its physical form) wasn't my passion, which led me to embark on a coding journey. With great enthusiasm, I am actively learning and improving my abilities, eager to embrace the best practices in the field. I hope someday to be in a envoirment where i can work with gifted people and learn from them.
 
-Currently, I am enrolled in a coding bootcamp called Boot.dev to further develop my skills in these areas. Boot.dev provides structured learning, mentorship, and hands-on projects to enhance my programming abilities. You can check out my profile on [boot.dev](https://www.boot.dev/u/mehrain) to learn more about my progress.
+Currently, I am enrolled in a coding bootcamp called Boot.dev to further develop my skills in these areas. Boot.dev provides structured learning, mentorship, and hands-on projects to enhance my programming abilities. You can check out my progression and earned certificates on [boot.dev](https://www.boot.dev/u/mehrain) to learn more about my progress.
 
 If you are interested in tracking my progress, feel free to visit my [GitHub profile](https://github.com/mehrain).
 
