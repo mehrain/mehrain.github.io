@@ -1,13 +1,14 @@
 ---
-title: "Algorithms Certificate at boot.dev"
+title: "Algorithms Certificate at Boot.Dev"
 date: 2024-03-27 22:50:00 +0000
 categories: [Projects, Certificates] # max 2
 tags: [certificate, algorithms, blog, personal] # TAG always lowercase
 ---
 
-![Algorithms Certificate](/img/uploads/bootdev_algorithms.png)
 
 # Introduction to Algorithms Finished! - My Algorithms Certificate at boot.dev
+
+![Algorithms Certificate](/img/uploads/bootdev_algorithms.png)
 
 Algorithms, a fundamental concept in computer science, can be quite challenging to grasp. However, after putting in dedicated effort and perseverance, I am thrilled to announce that I have successfully completed my algorithms certificate at boot.dev. While it may not have been my favorite topic, I am proud to have gained a strong understanding of the subject and its significance in the world of business.
 
