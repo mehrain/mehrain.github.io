@@ -8,8 +8,6 @@ tags: [certificate, algorithms, blog, personal] # TAG always lowercase
 
 # Introduction to Algorithms Finished! - My Algorithms Certificate at boot.dev
 
-![Algorithms Certificate](/img/uploads/bootdev_algorithms.png)
-
 Algorithms, a fundamental concept in computer science, can be quite challenging to grasp. However, after putting in dedicated effort and perseverance, I am thrilled to announce that I have successfully completed my algorithms certificate at boot.dev. While it may not have been my favorite topic, I am proud to have gained a strong understanding of the subject and its significance in the world of business.
 
 Algorithms serve as the backbone of numerous technological advancements and play a crucial role in problem-solving and decision-making processes. They enable businesses to optimize operations, streamline workflows, and uncover valuable insights from vast amounts of data.
