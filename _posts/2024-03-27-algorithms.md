@@ -41,3 +41,5 @@ As I embark on the next chapter of my learning journey with dataframes, I am exc
 
 Stay tuned as I share my learnings and experiences with dataframes, exploring their applications and impact on business success.
 
+![Algorithms Certificate](/img/uploads/bootdev_algorithms.png)
+
