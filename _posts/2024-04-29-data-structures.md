@@ -35,6 +35,9 @@ Now that I have a solid foundation in algorithms and data structures, I am eager
 
 Collaborating with my friends, we are bouncing ideas off each other and pushing each other to grow. This collaborative environment allows us to turn our knowledge into tangible and meaningful software solutions.
 
+## Friends and Discord Bot
+In addition to my data structures course, I have also been fortunate to have the support of my friends in setting up a Discord bot. They have been instrumental in teaching me best practices and guiding me through the process of creating a functional and efficient bot. Their expertise and collaboration have been invaluable in my journey as a software developer.
+
 ## Conclusion
 
 I highly recommend the boot.dev data structures course to anyone looking to level up their tech skills. It provides a comprehensive understanding of data structures, their implementation, and their real-world applications. With this knowledge, you can embark on a journey to build amazing software solutions.
