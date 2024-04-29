@@ -1,7 +1,7 @@
 ---
 title: "Algorithms Certificate at Boot.Dev"
 date: 2024-03-27 22:50:00 +0000
-categories: [Projects, Certificates] # max 2
+categories: [Courses, Algorithms] # max 2
 tags: [certificate, algorithms, blog, personal] # TAG always lowercase
 ---
 
